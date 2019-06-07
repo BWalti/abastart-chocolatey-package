@@ -9,7 +9,7 @@
     <title>abastart (Install)</title>
     <authors>Abacus Research AG</authors>
     <projectUrl>https://classic.abacus.ch/downloads-page/abastart/</projectUrl>
-    <iconUrl>https://classic.abacus.ch/fileadmin/templates/main/pics/favicon.ico</iconUrl>
+    <iconUrl>https://classic.abacus.ch/fileadmin/templates/main/pics/logo_abacus.png</iconUrl>
     <copyright>Abacus Business Software (2018)</copyright>
     <licenseUrl>https://classic.abacus.ch/downloads-page/lizenzbestimmungen/</licenseUrl>
     <!-- <requireLicenseAcceptance>true</requireLicenseAcceptance>-->
@@ -17,6 +17,7 @@
     <tags>abastart abacus</tags>
     <summary>AbaStart bietet die Möglichkeit, sich in die Abacus Business Software oder über AbaWeb auf sein Abo einzuloggen - ohne Internet Browser und ohne lokal Java installieren zu müssen.</summary>
     <description>AbaStart - einloggen über AbaWeb</description>
+	<releaseNotes>https://classic.abacus.ch/downloads-page/neuerungen-in-den-versionen/</releaseNotes>
   </metadata>
   <files>
     <file src="tools\**" target="tools" />
