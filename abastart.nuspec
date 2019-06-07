@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
+  <metadata>
+    <id>abastart</id>
+    <version>3.3.0</version>
+    <!-- <packageSourceUrl>Where is this Chocolatey package located (think GitHub)? packageSourceUrl is highly recommended for the community feed</packageSourceUrl>-->
+    <!-- owners is a poor name for maintainers of the package. It sticks around by this name for compatibility reasons. It basically means you. -->
+    <!--<owners>__REPLACE_YOUR_NAME__</owners>-->
+    <!-- ============================== -->
+
+    <title>abastart (Install)</title>
+    <authors>Abacus Research AG</authors>
+    <projectUrl>https://classic.abacus.ch/downloads-page/abastart/</projectUrl>
+    <iconUrl>https://classic.abacus.ch/fileadmin/templates/main/pics/favicon.ico</iconUrl>
+    <copyright>2018</copyright>
+    <licenseUrl>https://classic.abacus.ch/downloads-page/lizenzbestimmungen/</licenseUrl>
+    <!-- <requireLicenseAcceptance>true</requireLicenseAcceptance>-->
+    <docsUrl>https://classic.abacus.ch/downloads/applikationen/abastart/handbuch_abastart_2018_de.pdf</docsUrl>
+    <tags>abastart abacus</tags>
+    <summary>AbaStart bietet die Möglichkeit, sich in die Abacus Business Software oder über AbaWeb auf sein Abo einzuloggen - ohne Internet Browser und ohne lokal Java installieren zu müssen.</summary>
+    <description>AbaStart - einloggen über AbaWeb</description>
+    <!-- <releaseNotes>__REPLACE_OR_REMOVE__MarkDown_Okay</releaseNotes> -->
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
+</package>
