@@ -3,10 +3,8 @@
   <metadata>
     <id>abastart</id>
     <version>3.3.0</version>
-    <!-- <packageSourceUrl>Where is this Chocolatey package located (think GitHub)? packageSourceUrl is highly recommended for the community feed</packageSourceUrl>-->
-    <!-- owners is a poor name for maintainers of the package. It sticks around by this name for compatibility reasons. It basically means you. -->
-    <!--<owners>__REPLACE_YOUR_NAME__</owners>-->
-    <!-- ============================== -->
+    <packageSourceUrl>https://github.com/BWalti/abastart-chocolatey-package</packageSourceUrl>
+    <owners>BWalti</owners>
 
     <title>abastart (Install)</title>
     <authors>Abacus Research AG</authors>
@@ -19,7 +17,6 @@
     <tags>abastart abacus</tags>
     <summary>AbaStart bietet die Möglichkeit, sich in die Abacus Business Software oder über AbaWeb auf sein Abo einzuloggen - ohne Internet Browser und ohne lokal Java installieren zu müssen.</summary>
     <description>AbaStart - einloggen über AbaWeb</description>
-    <!-- <releaseNotes>__REPLACE_OR_REMOVE__MarkDown_Okay</releaseNotes> -->
   </metadata>
   <files>
     <file src="tools\**" target="tools" />
