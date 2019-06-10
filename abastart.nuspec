@@ -4,19 +4,19 @@
     <id>abastart</id>
     <version>3.3.0</version>
     <packageSourceUrl>https://github.com/BWalti/abastart-chocolatey-package</packageSourceUrl>
-    <owners>BWalti</owners>
+    <owners>bibolorean</owners>
 
     <title>abastart (Install)</title>
     <authors>Abacus Research AG</authors>
     <projectUrl>https://classic.abacus.ch/downloads-page/abastart/</projectUrl>
-    <iconUrl>https://classic.abacus.ch/fileadmin/templates/main/pics/logo_abacus.png</iconUrl>
+    <iconUrl>https://rawcdn.githack.com/BWalti/abastart-chocolatey-package/226f0ec24d2c3d6f8406c028443842f7982cc8e3/logo_abacus.png</iconUrl>
     <copyright>Abacus Business Software (2018)</copyright>
     <licenseUrl>https://classic.abacus.ch/downloads-page/lizenzbestimmungen/</licenseUrl>
     <!-- <requireLicenseAcceptance>true</requireLicenseAcceptance>-->
     <docsUrl>https://classic.abacus.ch/downloads/applikationen/abastart/handbuch_abastart_2018_de.pdf</docsUrl>
     <tags>abastart abacus</tags>
-    <summary>AbaStart bietet die Möglichkeit, sich in die Abacus Business Software oder über AbaWeb auf sein Abo einzuloggen - ohne Internet Browser und ohne lokal Java installieren zu müssen.</summary>
-    <description>AbaStart - einloggen über AbaWeb</description>
+    <summary>AbaStart - log-in into your AbaWeb</summary>
+    <description>AbaStart allows to log-in into your Abacus Business Software or AbaWeb - without any internet browser and without having java installed.</description>
 	<releaseNotes>https://classic.abacus.ch/downloads-page/neuerungen-in-den-versionen/</releaseNotes>
   </metadata>
   <files>
